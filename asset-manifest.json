@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rblogs/static/css/main.280702f9.css",
+    "main.js": "/rblogs/static/js/main.fc68dbea.js",
+    "static/media/wall.jpg": "/rblogs/static/media/wall.21a7d8404b8bf03fee05.jpg",
+    "index.html": "/rblogs/index.html",
+    "main.280702f9.css.map": "/rblogs/static/css/main.280702f9.css.map",
+    "main.fc68dbea.js.map": "/rblogs/static/js/main.fc68dbea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.280702f9.css",
+    "static/js/main.fc68dbea.js"
+  ]
+}
